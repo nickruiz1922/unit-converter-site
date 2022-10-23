@@ -1,0 +1,63 @@
+body {
+    width: 550px;
+    margin: 0 auto;
+    background: #F4F4F4;
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+#hero {
+    margin: 0;
+    height: 285px;
+    background: #6943FF;
+}
+
+h1 {
+    margin: 0;
+    color: #FFFF;
+    font-size: 28px;
+    font-weight: 800;
+    padding: 32px 50px;
+}
+
+h3 {
+    margin-top: 15px;   
+    color: #5A537B;
+    font-size: 20px;
+}
+
+#input-el {
+    margin-bottom: 30px;
+    width: 117px;
+    height: 83px;
+    background: #6943FF;
+    color: #FFFF;
+    border: 2px solid #B295FF;
+    border-radius: 5px;
+    font-size: 50px;
+    font-weight: 800;
+    line-height: 38px;
+    text-align: center;
+}
+
+#convert-btn {
+    width: 117px;
+    height: 42px;
+    background: #FFFF;
+    padding: 10px 22px;
+    border: none;
+    border-radius: 5px;
+}
+
+#result {
+    margin: 30px auto;
+    width: 500px;
+    height: 100px;    
+    background: #FFFF;
+    border-radius: 5px;
+    padding: 8px 16px;
+}
+
+#result:hover {
+    font-size: 18px;
+}
